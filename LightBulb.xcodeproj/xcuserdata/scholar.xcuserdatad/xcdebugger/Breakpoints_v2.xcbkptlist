@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "29F54645-EA90-4B89-8A27-B9B0EA2FD013"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE8C4BEE-4540-4AEA-AEFC-EAD22793F859"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LightBulb/GeneratePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sample"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EE8C4BEE-4540-4AEA-AEFC-EAD22793F859 - c650108c5aff5ccb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LightBulb.GeneratePage.init(mealType: SwiftUI.Binding&lt;Swift.String&gt;, haslactose: SwiftUI.Binding&lt;Swift.Bool&gt;, hasVegan: SwiftUI.Binding&lt;Swift.Bool&gt;, isvegetarian: SwiftUI.Binding&lt;Swift.Bool&gt;, ishalal: SwiftUI.Binding&lt;Swift.Bool&gt;, isKosher: SwiftUI.Binding&lt;Swift.Bool&gt;, isglutenFree: SwiftUI.Binding&lt;Swift.Bool&gt;, hasseafood: SwiftUI.Binding&lt;Swift.Bool&gt;, hasshellfish: SwiftUI.Binding&lt;Swift.Bool&gt;, hastreenuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haspeanuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haswheat: SwiftUI.Binding&lt;Swift.Bool&gt;, haseggs: SwiftUI.Binding&lt;Swift.Bool&gt;, hassoy: SwiftUI.Binding&lt;Swift.Bool&gt;, Breakfast: SwiftUI.Binding&lt;Swift.Bool&gt;, Lunch: SwiftUI.Binding&lt;Swift.Bool&gt;, Dinner: SwiftUI.Binding&lt;Swift.Bool&gt;, Dessert: SwiftUI.Binding&lt;Swift.Bool&gt;) -&gt; LightBulb.GeneratePage"
+                  moduleName = "LightBulb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Downloads/LightBulb-main/LightBulb/GeneratePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1816">
+               </Location>
+               <Location
+                  uuid = "EE8C4BEE-4540-4AEA-AEFC-EAD22793F859 - c650108c5aff5f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LightBulb.GeneratePage.init(mealType: SwiftUI.Binding&lt;Swift.String&gt;, haslactose: SwiftUI.Binding&lt;Swift.Bool&gt;, hasVegan: SwiftUI.Binding&lt;Swift.Bool&gt;, isvegetarian: SwiftUI.Binding&lt;Swift.Bool&gt;, ishalal: SwiftUI.Binding&lt;Swift.Bool&gt;, isKosher: SwiftUI.Binding&lt;Swift.Bool&gt;, isglutenFree: SwiftUI.Binding&lt;Swift.Bool&gt;, hasseafood: SwiftUI.Binding&lt;Swift.Bool&gt;, hasshellfish: SwiftUI.Binding&lt;Swift.Bool&gt;, hastreenuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haspeanuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haswheat: SwiftUI.Binding&lt;Swift.Bool&gt;, haseggs: SwiftUI.Binding&lt;Swift.Bool&gt;, hassoy: SwiftUI.Binding&lt;Swift.Bool&gt;, Breakfast: SwiftUI.Binding&lt;Swift.Bool&gt;, Lunch: SwiftUI.Binding&lt;Swift.Bool&gt;, Dinner: SwiftUI.Binding&lt;Swift.Bool&gt;, Dessert: SwiftUI.Binding&lt;Swift.Bool&gt;) -&gt; LightBulb.GeneratePage"
+                  moduleName = "LightBulb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Downloads/LightBulb-main/LightBulb/GeneratePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B598751-452E-41A1-9634-2672873D3E9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LightBulb/GeneratePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "sample"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0B598751-452E-41A1-9634-2672873D3E9A - c650108c5aff5f05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LightBulb.GeneratePage.init(mealType: SwiftUI.Binding&lt;Swift.String&gt;, haslactose: SwiftUI.Binding&lt;Swift.Bool&gt;, hasVegan: SwiftUI.Binding&lt;Swift.Bool&gt;, isvegetarian: SwiftUI.Binding&lt;Swift.Bool&gt;, ishalal: SwiftUI.Binding&lt;Swift.Bool&gt;, isKosher: SwiftUI.Binding&lt;Swift.Bool&gt;, isglutenFree: SwiftUI.Binding&lt;Swift.Bool&gt;, hasseafood: SwiftUI.Binding&lt;Swift.Bool&gt;, hasshellfish: SwiftUI.Binding&lt;Swift.Bool&gt;, hastreenuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haspeanuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haswheat: SwiftUI.Binding&lt;Swift.Bool&gt;, haseggs: SwiftUI.Binding&lt;Swift.Bool&gt;, hassoy: SwiftUI.Binding&lt;Swift.Bool&gt;, Breakfast: SwiftUI.Binding&lt;Swift.Bool&gt;, Lunch: SwiftUI.Binding&lt;Swift.Bool&gt;, Dinner: SwiftUI.Binding&lt;Swift.Bool&gt;, Dessert: SwiftUI.Binding&lt;Swift.Bool&gt;) -&gt; LightBulb.GeneratePage"
+                  moduleName = "LightBulb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Downloads/LightBulb-main/LightBulb/GeneratePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "0B598751-452E-41A1-9634-2672873D3E9A - c650108c5aff5f05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LightBulb.GeneratePage.init(mealType: SwiftUI.Binding&lt;Swift.String&gt;, haslactose: SwiftUI.Binding&lt;Swift.Bool&gt;, hasVegan: SwiftUI.Binding&lt;Swift.Bool&gt;, isvegetarian: SwiftUI.Binding&lt;Swift.Bool&gt;, ishalal: SwiftUI.Binding&lt;Swift.Bool&gt;, isKosher: SwiftUI.Binding&lt;Swift.Bool&gt;, isglutenFree: SwiftUI.Binding&lt;Swift.Bool&gt;, hasseafood: SwiftUI.Binding&lt;Swift.Bool&gt;, hasshellfish: SwiftUI.Binding&lt;Swift.Bool&gt;, hastreenuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haspeanuts: SwiftUI.Binding&lt;Swift.Bool&gt;, haswheat: SwiftUI.Binding&lt;Swift.Bool&gt;, haseggs: SwiftUI.Binding&lt;Swift.Bool&gt;, hassoy: SwiftUI.Binding&lt;Swift.Bool&gt;, Breakfast: SwiftUI.Binding&lt;Swift.Bool&gt;, Lunch: SwiftUI.Binding&lt;Swift.Bool&gt;, Dinner: SwiftUI.Binding&lt;Swift.Bool&gt;, Dessert: SwiftUI.Binding&lt;Swift.Bool&gt;) -&gt; LightBulb.GeneratePage"
+                  moduleName = "LightBulb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Downloads/LightBulb-main/LightBulb/GeneratePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
